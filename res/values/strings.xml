@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inline App</string>
+
+    <string name="des1">Welcome to the Bursar Office.\n\n Our Hours of operations: \n Monday to Friday, 9:00 AM to 5:00 PM. \n</string>
+
+    <string name="des2">Welcome to the Financial Aid office. \n\n Our Hours of operations: \n Monday to Friday, 9:00 AM to 5:00 PM. \n </string>
+
+    <string name="des3">Welcome to the IT department. \n\n Our Hours of operations: \n Monday to Friday, 9:00 AM to 5:00 PM. \n </string>
+
+    <string name="des4">Welcome to the Academic Advising office.\n\n Our Hours of operations: \n Monday to Friday, 9:00 AM to 5:00 PM. \n  </string>
+
+</resources>
